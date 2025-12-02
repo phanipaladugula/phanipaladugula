@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m a Developer<br>👯 I’m looking to increase my network <br>🤝 I’m a trying to solve the problems for real world <br>🌱 I’m currently learning AIML & DataScience with python<br>
 
+![Profile view counter on GitHub](https://github.com/phanipaladugula/phanipaladugula)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phxni_1317) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phanipaladugula) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:myworkspaceforme@gmail.com) 
