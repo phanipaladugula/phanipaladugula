@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m a Developer<br>👯 I’m looking to increase my network <br>🤝 I’m a trying to solve the problems for real world <br>🌱 I’m currently learning AIML & DataScience with python<br>
 
-![Profile view counter on GitHub](https://github.com/phanipaladugula/phanipaladugula)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=phanipaladugula)
 
 
 ## 🌐 Socials:
